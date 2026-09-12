@@ -65,9 +65,9 @@ This network will be used for the cybersecurity practical exercises in the upcom
 
 ### Screenshot
 
-![NAT Network Configuration](Screenshot-2-network-settings.png)
+![NAT Network Configuration](Screenshot-2-Network-Settings.png)
 
-[🔗 View Network Configuration Screenshot](Screenshot-2-network-settings.png)
+[🔗 View Network Configuration Screenshot](Screenshot-2-Network-Settings.png)
 
 ---
 
